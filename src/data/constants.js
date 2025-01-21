@@ -8,7 +8,7 @@ export const Bio = {
     "A driven Computer Science student passionate about development, AI, and web technologies. With hands-on project experience and a strong academic foundation, I am eager to learn and create innovative solutions that make an impact.",
   github: "https://github.com/ABHISHEKGARG-2004",
   resume:
-    "https://drive.google.com/file/d/1RCiYrVzikPJZqd9ltkU7ohnq1R5f5kup/view?usp=sharing",
+    "https://drive.google.com/file/d/1IhSsKUILsZgGpKVA_Z8wbjpmW6vF7DUe/view?usp=sharing",
 };
 
 export const skills = [
