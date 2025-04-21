@@ -8,7 +8,7 @@ export const Bio = {
     "A driven Computer Science student passionate about development, AI, and web technologies. With hands-on project experience and a strong academic foundation, I am eager to learn and create innovative solutions that make an impact.",
   github: "https://github.com/ABHISHEKGARG-2004",
   resume:
-    "https://drive.google.com/file/d/1IhSsKUILsZgGpKVA_Z8wbjpmW6vF7DUe/view?usp=sharing",
+    "https://drive.google.com/file/d/11dTWCh7ABE4nQldnWtwNKmV0woTpqr7_/view?usp=sharing",
 };
 
 export const skills = [
@@ -223,5 +223,17 @@ export const projects = [
     tags: ["Python", "Numpy", "Pandas", "Scikit-Learn", "Tensor-Flow", ""],
     category: "machine learning",
     github: "https://github.com/ABHISHEKGARG-2004/Crop-Yield-Prediction",
+  },
+  {
+    id: 3,
+    title: "Eternal- AI SaaS Platform",
+    date: "feb 2025 - March 2025",
+    description:
+      "Developed Eternal, a modern AI-powered SaaS platform that empowers users to generate text, code, images, music and videos using advanced language models, streamlining creative workflows and boosting productivity",
+    image:
+      "https://www.itilite.com/in/wp-content/uploads/sites/3/2024/01/AI-saas-platform.jpg",
+    tags: ["Next Js 13","Prisma ORM" , "MongoDB", "Clerk", "Stripe", ],
+    category: "Web App",
+    github: "https://github.com/ABHISHEKGARG-2004/Eternal",
   },
 ];
