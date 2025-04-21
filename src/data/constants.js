@@ -233,7 +233,7 @@ export const projects = [
     image:
       "https://www.itilite.com/in/wp-content/uploads/sites/3/2024/01/AI-saas-platform.jpg",
     tags: ["Next Js 13","Prisma ORM" , "MongoDB", "Clerk", "Stripe", ],
-    category: "Web App",
+    category: "web app",
     github: "https://github.com/ABHISHEKGARG-2004/Eternal",
   },
 ];
